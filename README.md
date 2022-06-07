@@ -40,13 +40,13 @@
 
 ## 整体框架
 
-![流程图](聊天机器人文档.assets/流程图.jpg)
+![流程图](https://cdn.jsdelivr.net/gh/XingpanLuo/PictureBed/BlogImag202206071324423.jpg)
 
 ## 功能模块测试
 
 ### 知识图谱：
 
-![kg](聊天机器人文档.assets/kg.png)
+![kg](https://cdn.jsdelivr.net/gh/XingpanLuo/PictureBed/BlogImag202206071324234.png)
 
 说明：
 
@@ -58,9 +58,9 @@
 
 ### 成语接龙
 
-![idiom1](聊天机器人文档.assets/idiom1.png)
+![idiom1](https://cdn.jsdelivr.net/gh/XingpanLuo/PictureBed/BlogImag202206071324609.png)
 
-![idiom2](聊天机器人文档.assets/idiom2.png)
+![idiom2](https://cdn.jsdelivr.net/gh/XingpanLuo/PictureBed/BlogImag202206071325749.png)
 
 说明：
 
@@ -69,7 +69,7 @@
 
 ### 查询天气
 
-![weather](聊天机器人文档.assets/weather.png)
+![weather](https://cdn.jsdelivr.net/gh/XingpanLuo/PictureBed/BlogImag202206071324168.png)
 
 说明：
 
@@ -80,7 +80,7 @@
 
 ### 笑话
 
-![xiaohua](聊天机器人文档.assets/xiaohua.png)
+![xiaohua](https://cdn.jsdelivr.net/gh/XingpanLuo/PictureBed/BlogImag202206071324810.png)
 
 说明：
 
@@ -90,7 +90,7 @@
 
 tf-idf相似度匹配算法
 
-![tf_idf](聊天机器人文档.assets/tf_idf.png)
+![tf_idf](https://cdn.jsdelivr.net/gh/XingpanLuo/PictureBed/BlogImag202206071324217.png)
 
 说明：
 
