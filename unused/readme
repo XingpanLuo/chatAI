@@ -1,0 +1,4 @@
+s2s.py:基于seq2seq的通用聊天机器人，效果极差，未使用
+seq2seq.py:未完成的seq2seq
+log.py:自定义的日志输出，最后将日志直接在gui界面输出了，故未使用
+test.py:调整gui窗口及各模块大小的测试程序
